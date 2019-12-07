@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/visualization/diseases-that-overlap/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/visualization/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/visualization/discrete-pie-chart/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/icon/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/visualization/how-groups-of-people-live/how-groups-of-people-live/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/visualization/saudi-aramco/saudi-aramco/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/visualization/syllable-rate-in-languages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/visualization/tenure-pipeline-at-hbs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/visualization/unmarried-couples-gain-in-numbers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>

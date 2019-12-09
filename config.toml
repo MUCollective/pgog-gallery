@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "uncertainty_gallery/"
 languageCode = "en-us"
 title = "Probabilistic Visualization Collection"
 theme = "mediumish-gohugo-theme"

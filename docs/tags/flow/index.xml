@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flow on Probabilistic Visualization Collection</title>
+    <link>/tags/flow/</link>
+    <description>Recent content in flow on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/flow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IUD drop-outs</title>
+      <link>/visualization/iud-drop-outs/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/iud-drop-outs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Israel’s political kaleidoscope</title>
+      <link>/visualization/israel-s-political-kaleidoscope/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/israel-s-political-kaleidoscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How electricity generation changed</title>
+      <link>/visualization/how-electricity-generation-changed/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/how-electricity-generation-changed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sankey diagrams</title>
+      <link>/visualization/sankey-diagrams/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/sankey-diagrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A visual introduction to machine learning</title>
+      <link>/visualization/a-visual-introduction-to-machine-learning/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/a-visual-introduction-to-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Results of a reproducibility survey</title>
+      <link>/visualization/results-of-a-reproducibility-survey/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/results-of-a-reproducibility-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Income mobility | NYT</title>
+      <link>/visualization/income-mobility-nyt/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/income-mobility-nyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

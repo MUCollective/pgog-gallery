@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paper on Probabilistic Visualization Collection</title>
-    <link>/uncertainty_gallery/tags/paper/</link>
+    <link>/tags/paper/</link>
     <description>Recent content in paper on Probabilistic Visualization Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/uncertainty_gallery/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/paper/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hurricane path ensemble</title>
-      <link>/uncertainty_gallery/visualization/hurricane-path-ensemble/</link>
+      <link>/visualization/hurricane-path-ensemble/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/hurricane-path-ensemble/</guid>
+      <guid>/visualization/hurricane-path-ensemble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantile dotplots</title>
-      <link>/uncertainty_gallery/visualization/quantile-dotplots/</link>
+      <link>/visualization/quantile-dotplots/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/quantile-dotplots/</guid>
+      <guid>/visualization/quantile-dotplots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparkplug</title>
-      <link>/uncertainty_gallery/visualization/sparkplug/</link>
+      <link>/visualization/sparkplug/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/sparkplug/</guid>
+      <guid>/visualization/sparkplug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphical natural frequency</title>
-      <link>/uncertainty_gallery/visualization/graphical-natural-frequency/</link>
+      <link>/visualization/graphical-natural-frequency/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/graphical-natural-frequency/</guid>
+      <guid>/visualization/graphical-natural-frequency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product plots</title>
-      <link>/uncertainty_gallery/visualization/product-plots/</link>
+      <link>/visualization/product-plots/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/product-plots/</guid>
+      <guid>/visualization/product-plots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Euler diagram</title>
-      <link>/uncertainty_gallery/visualization/euler-diagram/</link>
+      <link>/visualization/euler-diagram/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/euler-diagram/</guid>
+      <guid>/visualization/euler-diagram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pictograph/Icon array</title>
-      <link>/uncertainty_gallery/visualization/pictograph-icon-array/</link>
+      <link>/visualization/pictograph-icon-array/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/pictograph-icon-array/</guid>
+      <guid>/visualization/pictograph-icon-array/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VSUP</title>
-      <link>/uncertainty_gallery/visualization/vsup/</link>
+      <link>/visualization/vsup/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/vsup/</guid>
+      <guid>/visualization/vsup/</guid>
       <description></description>
     </item>
     

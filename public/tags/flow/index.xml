@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flow on Probabilistic Visualization Collection</title>
-    <link>/uncertainty_gallery/tags/flow/</link>
+    <link>/tags/flow/</link>
     <description>Recent content in flow on Probabilistic Visualization Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/uncertainty_gallery/tags/flow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/flow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IUD drop-outs</title>
-      <link>/uncertainty_gallery/visualization/iud-drop-outs/</link>
+      <link>/visualization/iud-drop-outs/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/iud-drop-outs/</guid>
+      <guid>/visualization/iud-drop-outs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Israel’s political kaleidoscope</title>
-      <link>/uncertainty_gallery/visualization/israel-s-political-kaleidoscope/</link>
+      <link>/visualization/israel-s-political-kaleidoscope/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/israel-s-political-kaleidoscope/</guid>
+      <guid>/visualization/israel-s-political-kaleidoscope/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How electricity generation changed</title>
-      <link>/uncertainty_gallery/visualization/how-electricity-generation-changed/</link>
+      <link>/visualization/how-electricity-generation-changed/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/how-electricity-generation-changed/</guid>
+      <guid>/visualization/how-electricity-generation-changed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sankey diagrams</title>
-      <link>/uncertainty_gallery/visualization/sankey-diagrams/</link>
+      <link>/visualization/sankey-diagrams/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/sankey-diagrams/</guid>
+      <guid>/visualization/sankey-diagrams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A visual introduction to machine learning</title>
-      <link>/uncertainty_gallery/visualization/a-visual-introduction-to-machine-learning/</link>
+      <link>/visualization/a-visual-introduction-to-machine-learning/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/a-visual-introduction-to-machine-learning/</guid>
+      <guid>/visualization/a-visual-introduction-to-machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Results of a reproducibility survey</title>
-      <link>/uncertainty_gallery/visualization/results-of-a-reproducibility-survey/</link>
+      <link>/visualization/results-of-a-reproducibility-survey/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/results-of-a-reproducibility-survey/</guid>
+      <guid>/visualization/results-of-a-reproducibility-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Income mobility | NYT</title>
-      <link>/uncertainty_gallery/visualization/income-mobility-nyt/</link>
+      <link>/visualization/income-mobility-nyt/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/uncertainty_gallery/visualization/income-mobility-nyt/</guid>
+      <guid>/visualization/income-mobility-nyt/</guid>
       <description></description>
     </item>
     

@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Probabilistic Visualization Collection</title>
-    <link>/tags/</link>
+    <link>/uncertainty_gallery/tags/</link>
     <description>Recent content in Tags on Probabilistic Visualization Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/uncertainty_gallery/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>area</title>
-      <link>/tags/area/</link>
+      <link>/uncertainty_gallery/tags/area/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/area/</guid>
+      <guid>/uncertainty_gallery/tags/area/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bloc</title>
-      <link>/tags/bloc/</link>
+      <link>/uncertainty_gallery/tags/bloc/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bloc/</guid>
+      <guid>/uncertainty_gallery/tags/bloc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icon</title>
-      <link>/tags/icon/</link>
+      <link>/uncertainty_gallery/tags/icon/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/icon/</guid>
+      <guid>/uncertainty_gallery/tags/icon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paper</title>
-      <link>/tags/paper/</link>
+      <link>/uncertainty_gallery/tags/paper/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/paper/</guid>
+      <guid>/uncertainty_gallery/tags/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>press</title>
-      <link>/tags/press/</link>
+      <link>/uncertainty_gallery/tags/press/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/press/</guid>
+      <guid>/uncertainty_gallery/tags/press/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flow</title>
-      <link>/tags/flow/</link>
+      <link>/uncertainty_gallery/tags/flow/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/flow/</guid>
+      <guid>/uncertainty_gallery/tags/flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>statistics/education</title>
-      <link>/tags/statistics/education/</link>
+      <link>/uncertainty_gallery/tags/statistics/education/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/statistics/education/</guid>
+      <guid>/uncertainty_gallery/tags/statistics/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bar</title>
-      <link>/tags/bar/</link>
+      <link>/uncertainty_gallery/tags/bar/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bar/</guid>
+      <guid>/uncertainty_gallery/tags/bar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>modeling/machinelearning</title>
-      <link>/tags/modeling/machinelearning/</link>
+      <link>/uncertainty_gallery/tags/modeling/machinelearning/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/modeling/machinelearning/</guid>
+      <guid>/uncertainty_gallery/tags/modeling/machinelearning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>composite</title>
-      <link>/tags/composite/</link>
+      <link>/uncertainty_gallery/tags/composite/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/composite/</guid>
+      <guid>/uncertainty_gallery/tags/composite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dotplot</title>
-      <link>/tags/dotplot/</link>
+      <link>/uncertainty_gallery/tags/dotplot/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/dotplot/</guid>
+      <guid>/uncertainty_gallery/tags/dotplot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>animation</title>
-      <link>/tags/animation/</link>
+      <link>/uncertainty_gallery/tags/animation/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/animation/</guid>
+      <guid>/uncertainty_gallery/tags/animation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tree</title>
-      <link>/tags/tree/</link>
+      <link>/uncertainty_gallery/tags/tree/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tree/</guid>
+      <guid>/uncertainty_gallery/tags/tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ensemble</title>
-      <link>/tags/ensemble/</link>
+      <link>/uncertainty_gallery/tags/ensemble/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ensemble/</guid>
+      <guid>/uncertainty_gallery/tags/ensemble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>line</title>
-      <link>/tags/line/</link>
+      <link>/uncertainty_gallery/tags/line/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/line/</guid>
+      <guid>/uncertainty_gallery/tags/line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sports</title>
-      <link>/tags/sports/</link>
+      <link>/uncertainty_gallery/tags/sports/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sports/</guid>
+      <guid>/uncertainty_gallery/tags/sports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temporal</title>
-      <link>/tags/temporal/</link>
+      <link>/uncertainty_gallery/tags/temporal/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/temporal/</guid>
+      <guid>/uncertainty_gallery/tags/temporal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uncertainty</title>
-      <link>/tags/uncertainty/</link>
+      <link>/uncertainty_gallery/tags/uncertainty/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/uncertainty/</guid>
+      <guid>/uncertainty_gallery/tags/uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chart-type</title>
-      <link>/tags/chart-type/</link>
+      <link>/uncertainty_gallery/tags/chart-type/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/chart-type/</guid>
+      <guid>/uncertainty_gallery/tags/chart-type/</guid>
       <description></description>
     </item>
     
     <item>
       <title>medical</title>
-      <link>/tags/medical/</link>
+      <link>/uncertainty_gallery/tags/medical/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/medical/</guid>
+      <guid>/uncertainty_gallery/tags/medical/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://xiaoyingpu.github.io/uncertainty_gallery"
 languageCode = "en-us"
 title = "Probabilistic Visualization Collection"
 theme = "mediumish-gohugo-theme"
@@ -15,6 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R$"]
 [[menu.main]]
     name = "Visualizations"
     url = "/visualization/"
+
 
 [params]
     description = "Supplemental to _A Probabilistic Grammar of Graphics_"

@@ -1,0 +1,7 @@
+{{ partial "header.html" . }}
+{{ if eq .Section "post" }} {{ .ReadingTime }} min read {{ end }}
+{{ .Title }}
+
+{{ if eq .Section "post" }} {{ .Date.Format "2006-01-02" }} {{ end }}
+{{ .Content }}
+{{ partial "footer.html" . }}

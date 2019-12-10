@@ -4,7 +4,7 @@ title = "Probabilistic Visualization Collection"
 theme = "mediumish-gohugo-theme"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R$"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"

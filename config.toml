@@ -4,6 +4,7 @@ title = "Probabilistic Visualization Collection"
 theme = "mediumish-gohugo-theme"
 googleAnalytics = ""
 disqusShortname = ""
+publishDir = "./docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R$"]
 
 [permalinks]

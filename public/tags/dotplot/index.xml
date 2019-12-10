@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotplot on Probabilistic Visualization Collection</title>
+    <link>/tags/dotplot/</link>
+    <description>Recent content in dotplot on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dotplot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Possible worlds visualization of polling data using quantile box plots.</title>
+      <link>/visualization/possible-worlds-visualization-of-polling-data-usin/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/possible-worlds-visualization-of-polling-data-usin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

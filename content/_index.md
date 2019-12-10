@@ -10,4 +10,9 @@ site: blogdown:::blogdown_site
 Citation
 
 ```{bibtex}
+@article{
+  title:
+  authors:
+
+}
 ```

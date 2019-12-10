@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sports on Probabilistic Visualization Collection</title>
+    <link>/tags/sports/</link>
+    <description>Recent content in sports on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Our Club Soccer Predictions Work</title>
+      <link>/visualization/how-our-club-soccer-predictions-work/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/how-our-club-soccer-predictions-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hockey</title>
+      <link>/visualization/hockey/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/hockey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

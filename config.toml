@@ -1,10 +1,9 @@
-baseurl = "https://xiaoyingpu.github.io/uncertainty_gallery"
+baseurl = "/"
 languageCode = "en-us"
 title = "Probabilistic Visualization Collection"
 theme = "mediumish-gohugo-theme"
 googleAnalytics = ""
 disqusShortname = ""
-publishDir = "./docs/"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R$"]
 
 [permalinks]
@@ -16,6 +15,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R$"]
 [[menu.main]]
     name = "Visualizations"
     url = "/visualization/"
+
+
+[taxonomies]
+  category = "categories"
+  coverage = "coverage"
+  tag = "tags"
 
 
 [params]

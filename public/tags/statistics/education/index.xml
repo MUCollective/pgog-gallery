@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics/education on Probabilistic Visualization Collection</title>
+    <link>/tags/statistics/education/</link>
+    <description>Recent content in statistics/education on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/statistics/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interpreting Cohen&#39;s d effect size</title>
+      <link>/visualization/interpreting-cohen-s-d-effect-size/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/interpreting-cohen-s-d-effect-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geometric visualisation of Bayes&#39; theorem</title>
+      <link>/visualization/a-geometric-visualisation-of-bayes-theorem/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/a-geometric-visualisation-of-bayes-theorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference</title>
+      <link>/visualization/bayesian-inference/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/bayesian-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

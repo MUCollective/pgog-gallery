@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hierarchical on Probabilistic Visualization Collection</title>
+    <link>/coverage/hierarchical/</link>
+    <description>Recent content in Hierarchical on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/coverage/hierarchical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Possible worlds visualization of polling data using quantile box plots.</title>
+      <link>/visualization/possible-worlds-visualization-of-polling-data-usin/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/possible-worlds-visualization-of-polling-data-usin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression tree predicting accident rates</title>
+      <link>/visualization/regression-tree-predicting-accident-rates/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/regression-tree-predicting-accident-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nine-in-ten Americans believe in a higher power</title>
+      <link>/visualization/nine-in-ten-americans-believe-in-a-higher-power/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/nine-in-ten-americans-believe-in-a-higher-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A visual introduction to machine learning</title>
+      <link>/visualization/a-visual-introduction-to-machine-learning/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/a-visual-introduction-to-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Results of a reproducibility survey</title>
+      <link>/visualization/results-of-a-reproducibility-survey/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/results-of-a-reproducibility-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Bracket Probability</title>
+      <link>/visualization/temporal-bracket-probability/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/temporal-bracket-probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bracket probabilities</title>
+      <link>/visualization/bracket-probabilities/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/bracket-probabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Income mobility | NYT</title>
+      <link>/visualization/income-mobility-nyt/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/income-mobility-nyt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tree on Probabilistic Visualization Collection</title>
+    <link>/tags/tree/</link>
+    <description>Recent content in tree on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tree/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regression tree predicting accident rates</title>
+      <link>/visualization/regression-tree-predicting-accident-rates/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/regression-tree-predicting-accident-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A visual introduction to machine learning</title>
+      <link>/visualization/a-visual-introduction-to-machine-learning/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/a-visual-introduction-to-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

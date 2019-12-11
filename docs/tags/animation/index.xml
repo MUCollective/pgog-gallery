@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animation on Probabilistic Visualization Collection</title>
+    <link>/tags/animation/</link>
+    <description>Recent content in animation on Probabilistic Visualization Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Midterm Elections 2018: Live Results</title>
+      <link>/visualization/midterm-elections-2018-live-results/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/midterm-elections-2018-live-results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hurricane Florence: Keep tabs on shifting storm track</title>
+      <link>/visualization/hurricane-florence-keep-tabs-on-shifting-storm-tra/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/hurricane-florence-keep-tabs-on-shifting-storm-tra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A visual introduction to machine learning</title>
+      <link>/visualization/a-visual-introduction-to-machine-learning/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/a-visual-introduction-to-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Results of a reproducibility survey</title>
+      <link>/visualization/results-of-a-reproducibility-survey/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/results-of-a-reproducibility-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misled by the Jobs Report</title>
+      <link>/visualization/misled-by-the-jobs-report/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/visualization/misled-by-the-jobs-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

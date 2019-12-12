@@ -78,11 +78,6 @@
   </url>
   
   <url>
-    <loc>/visualization/untitled/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/visualization/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
   </url>
@@ -645,6 +640,11 @@
   <url>
     <loc>/visualization/vsup/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Probabilistic Visualization Collection</title>
+    <title>A Probabilistic Grammar of Graphics</title>
     <link>/</link>
-    <description>Recent content on Probabilistic Visualization Collection</description>
+    <description>Recent content on A Probabilistic Grammar of Graphics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
@@ -917,8 +917,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Citation
-@article{ title: authors: }  </description>
+      <description>GitHub repo</description>
     </item>
     
   </channel>

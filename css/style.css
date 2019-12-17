@@ -36,9 +36,9 @@ h3{
     object-fit: cover;
 }
 
-.hoverable {
+/* .hoverable {
   transition: transform .1s ease-out;
-}
+} */
 
 .card:hover {
   transform: translate(0, -8px);
